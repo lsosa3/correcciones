@@ -1,4 +1,4 @@
-# correcciones
+# Correcciones
 
 > Corrections in shift roll, is a module that allows the user to make correction on the regs created by the security manager, increment or decrement hours on any employee or create new records
 
